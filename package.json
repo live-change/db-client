@@ -1,5 +1,5 @@
 {
-  "name": "@live-change/db-client",
+  "name": "@live-change/db-client-2",
   "version": "0.4.67",
   "description": "Database with observable data for live queries",
   "main": "index.js",
